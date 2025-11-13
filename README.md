@@ -16,3 +16,8 @@ python -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
 python src/main.py
+
+## 4. Contacto
+Autor: Nelinho Hurtado
+Correo: nelinho.hurtado@gmail.com
+LinkedIn: https://www.linkedin.com/in/nelinho-hurtado
